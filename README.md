@@ -1,7 +1,6 @@
 **Friday October 6, 2017**  
-Andrew Davis  
-
-Conact Me: ![addavis@olemiss.edu](mailto:addavis@olemiss.edu)
+Andrew Davis    
+Conact Me: [addavis@olemiss.edu](mailto:addavis@olemiss.edu)
 
 ## Preserving Knowledge 
 
