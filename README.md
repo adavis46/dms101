@@ -1,5 +1,5 @@
-### Friday October 6, 2017
-### Andrew Davis
+**Friday October 6, 2017**  
+Andrew Davis  
 
 Conact Me: ![addavis@olemiss.edu](mailto:addavis@olemiss.edu)
 
