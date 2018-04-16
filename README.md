@@ -1,4 +1,4 @@
-**Friday October 6, 2017**  
+**Monday April 16 2018**  
 Andrew Davis    
 Conact Me: [addavis@olemiss.edu](mailto:addavis@olemiss.edu)
 
@@ -15,6 +15,9 @@ You would probably have a hard time. That's not to say that there's nothing that
 
 Here are some interesting readings for you:
 
+- [Museum of Obsolete Media](http://www.obsoletemedia.org/)
+- [Reality and Chimeras in the Preservation of Electronic Records](http://www.dlib.org/dlib/april99/bearman/04bearman.html)
+- [Obsolete Media Annotated Bib](http://wiki.slis.wayne.edu/index.php/Obsolete_Media)
 - [The Independent: Digital Dark Age](http://www.independent.co.uk/life-style/gadgets-and-tech/news/digital-dark-age-could-leave-historians-with-no-records-of-the-21st-century-10043516.html)
 - [Ensuring the Longevity of Digital Information by Jeff Rothenberg](assets/ensuring.pdf)
 - [Wired: Five Obsolete Storage Formats](https://www.wired.com/2008/06/five-obsolete-s/)
@@ -35,14 +38,19 @@ Can you think of examples where one format is better than the other? Which is be
 
 ---
 
+## Walled Gardens and Data Centralization
+The web (and most of our digital lives) are more centralized now than ever before. What would happen if Amazon Web Services simply vanished one day? How much of the world would simply cease operating? What about Facebook? If it disappeared tomorrow, not only would simple communication be impossible for some people who rely heavily on Messenger or WhatsApp, but identity and authentication would be broken for the thousands of sites and services that rely on the Facebook API.
+
+- [It's time to rebuild the web](https://www.oreilly.com/ideas/its-time-to-rebuild-the-web)
+- [AWS Outage](https://techcrunch.com/2017/02/28/amazon-aws-s3-outage-is-breaking-things-for-a-lot-of-websites-and-apps/)\
+- [AWS Outage Caused by Human Error](https://www.recode.net/2017/3/2/14792636/amazon-aws-internet-outage-cause-human-error-incorrect-command)
+
+
 ## Activity
 
 1. Find one example of data/information/knowledge that has been lost due to obsolete storage media. In hindsight, what would have been a more effective way to store that knowledge? 
 
-
-
-
-
+2. Thought Experiment: What is the best way to ensure that your mother's recipe for peach pie is accessible in 50,000 years? Your mission is to preserve it for posterity. How do you go about ensuring that it survives and that people in 50,000 years can read it? 
 
 
 
