@@ -42,7 +42,7 @@ Can you think of examples where one format is better than the other? Which is be
 The web (and most of our digital lives) are more centralized now than ever before. What would happen if Amazon Web Services simply vanished one day? How much of the world would simply cease operating? What about Facebook? If it disappeared tomorrow, not only would simple communication be impossible for some people who rely heavily on Messenger or WhatsApp, but identity and authentication would be broken for the thousands of sites and services that rely on the Facebook API.
 
 - [It's time to rebuild the web](https://www.oreilly.com/ideas/its-time-to-rebuild-the-web)
-- [AWS Outage](https://techcrunch.com/2017/02/28/amazon-aws-s3-outage-is-breaking-things-for-a-lot-of-websites-and-apps/)\
+- [AWS Outage](https://techcrunch.com/2017/02/28/amazon-aws-s3-outage-is-breaking-things-for-a-lot-of-websites-and-apps/)
 - [AWS Outage Caused by Human Error](https://www.recode.net/2017/3/2/14792636/amazon-aws-internet-outage-cause-human-error-incorrect-command)
 
 
